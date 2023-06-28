@@ -14,5 +14,7 @@
 
 | 文章                                                         | 开始时间 | 完成时间 |
 | ------------------------------------------------------------ | -------- | -------- |
-| [转置卷积(Transpose Convolution)](https://zhuanlan.zhihu.com/p/115070523) | 未开始   |          |
+| [转置卷积(Transpose Convolution)](https://zhuanlan.zhihu.com/p/115070523) |          |          |
+| [向量，矩阵和张量的导数](https://zhuanlan.zhihu.com/p/142668996) |          |          |
+| [矩阵导数(Matrix Differentia)](https://blog.csdn.net/Flyingzhan/article/details/85332112) |          |          |
 

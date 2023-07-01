@@ -18,7 +18,8 @@
 | [向量，矩阵和张量的导数](https://zhuanlan.zhihu.com/p/142668996) | done |
 | [矩阵导数(Matrix Differentia)](https://blog.csdn.net/Flyingzhan/article/details/85332112) |      |
 | [理解梯度](https://zhuanlan.zhihu.com/p/81235446)            |      |
-| [【深度学习之美18】到底什么是梯度？](https://zhuanlan.zhihu.com/p/43492827) |      |
+| [【深度学习之美18】到底什么是梯度？](https://zhuanlan.zhihu.com/p/43492827) | done |
+| [pytorch中backward()函数详解](https://blog.csdn.net/sinat_28731575/article/details/90342082) |      |
 
 
 
